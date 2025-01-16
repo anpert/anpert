@@ -1,6 +1,6 @@
 Hi!
 
-I'm a teacher, teaching in [Luovi Vocational School](http://www.luovi.fi), Oulu, Finland, EU.
+I'm a teacher, teaching in <a href="http://www.luovi.fi" target="_blank">Luovi Vocational School</a>, Oulu, Finland, EU.
 
 - 🌱 I’m currently learning life :)
 - 💬 Ask me about playing ukulele!
